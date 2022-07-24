@@ -1,4 +1,4 @@
-# primeiroprojeto
+# formulário
 Formulário básico como primeiro projeto p/ treino usando o básico de html, css e js.
 Projeto apenas para teste e treino de conhecimentos básicos.
 
